@@ -15,7 +15,7 @@ There is a menu to choose from
 The films entered are saved in a separate text file that is also loaded for the search.
 
 ## Which programming languages & technologies were used?
-We programmed with Java in Eclipse
+The project was programmed with Java in Eclipse
 
 ## Who worked on the projekt?
 This was a teamwork with Melody Fuhrmann
